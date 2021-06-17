@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+
+h1 {
+    font-family: Verdana, "sans-serif";
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.link a {
+    color: aquamarine;
+    font-size: 16px;
+}
+.promoVideo {
+    width: 480px;
+    height: 720px;
+    margin: 0 auto;
+}
+h2 {
+    font-family: Verdana, "sans-serif";
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+.descriptionTitle {
+    font-family: Verdana, "sans-serif";
+    font-size: 21px;
+    color: gray;
+}
+.copyright {
+    text-align: right;
+    color: gray;
+}
+.phoneIcon {
+    position: relative;
+    top: 20px;
+}
